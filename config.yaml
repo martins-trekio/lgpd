@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    matheus:
+      email: mhm.atom@gmail.com
+      logged_in: True
+      name: Matheus Martins
+      password: $2b$12$h2URbNrL4q3Y8iV8N7JlZOCaj85hVUcZmJRM1K.qmtAoKQrtPbxWC
+cookie:
+  expiry_days: 0
+  key: some_signature_keys
+  name: some_cookie_name
