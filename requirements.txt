@@ -1,6 +1,6 @@
 streamlit
 streamlit-authenticator
 pyyaml
-langflow
+git+https://github.com/langflow-ai/langflow.git
 nest-asyncio
 python-dotenv
