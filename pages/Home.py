@@ -52,7 +52,7 @@ def create_header():
 
     st.markdown("""
     <div style="background-color:#0464ac;padding:20px;border-radius:15px;text-align:center;">
-        <h1 style="color:white;">👩‍⚖️ Bem-vindo à LucIA, sua especialista em LGPD 👩‍⚖️</h1>
+        <h1 style="color:white;">Bem-vindo à LucIA, sua especialista em LGPD</h1>
         <h2 style="color:white;">Proteja os dados da sua empresa com a LucIA</h2>
         <p style="font-size: 18px;color:white;">Conformidade, Análise e Segurança de Dados Pessoais</p>
     </div>
